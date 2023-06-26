@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(120, 71, 43);
+}
+
+.card{
+    width: 35%;
+    text-align: center;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 50px;
+    background-color: rgb(167, 238, 197);
+    margin: auto;
+}
+
+img{
+    width: 40%;
+}
+
+#professional{
+    border-top-left-radius: 45px;
+    border-top-right-radius: 45px;
+    width: 100%;
+    border-bottom: 1px solid black;
+}
+
+figcaption{
+    font-style: italic;
+    font-family: monospace;
+    padding-top: 5px;
+}
+
+h2{
+    color: rgb(0, 0, 0);
+    font-family: monospace;
+    padding: 10px;
+}
+
+p{
+    font-family: monospace;
+    font-size: large;
+}
+
+#navbar{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    justify-content: center;
+}
+
+#nav-elements{
+    display: block;
+    padding: 15px;
+    border-radius: 20px;
+    font-family: monospace;
+    text-decoration: none;
+    color: black;
+}
+
+#nav-elements:hover{
+    background-color: rgb(107, 181, 222);
+}
+
+#nav-elements-twitter:hover{
+    background-color: rgb(107, 181, 222);
+}
