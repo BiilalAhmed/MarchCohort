@@ -44,22 +44,24 @@ p{
     display: flex;
     align-items: center;
     padding: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
     justify-content: center;
 }
 
 #nav-elements{
     display: block;
     padding: 15px;
-    border-radius: 20px;
+    border-radius: 40px;
     font-family: monospace;
     text-decoration: none;
     color: black;
 }
 
 #nav-elements:hover{
-    background-color: rgb(107, 181, 222);
+    background-color: rgb(162, 223, 195);
 }
 
 #nav-elements-twitter:hover{
-    background-color: rgb(107, 181, 222);
+    background-color: rgb(162, 223, 195);
 }
