@@ -12,7 +12,7 @@ body{
 }
 
 img{
-    width: 40%;
+    width: 50%;
 }
 
 #professional{
@@ -26,17 +26,20 @@ figcaption{
     font-style: italic;
     font-family: monospace;
     padding-top: 5px;
+    font-size: 0.9vw;
 }
 
 h2{
     color: rgb(0, 0, 0);
     font-family: monospace;
     padding: 10px;
+    font-size: 1.5vw;
 }
 
 p{
     font-family: monospace;
     font-size: large;
+    font-size: 1vw;
 }
 
 #navbar{
